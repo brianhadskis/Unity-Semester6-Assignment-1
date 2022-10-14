@@ -56,10 +56,12 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
+/iOSBuild/
 *.apk
 *.aab
 *.unitypackage
 *.app
+iOSBuild.zip
 
 # Crashlytics generated file
 crashlytics-build.properties
